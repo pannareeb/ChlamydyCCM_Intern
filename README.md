@@ -1,6 +1,6 @@
 # Intern_Chlamydy_Cambridge
-For 300 genes
-1. Code for 48 x 354 input matrix: to run dynGENIE3 with improved conditions and Get_link_list Code_1_links_for_300
+
+1. For 300 genes, Code for 48 x 354 input matrix: to run dynGENIE3 with improved conditions and Get_link_list Code_1_links_for_300
 2. For 17,000 genes, Code to import data and find genes that throw out error CheckforErrorGenes
 3. For 17,000 genes, Code to filter them out and to run dynGENIE3 & Get_link_list with names with no max count ToRunAFinalTime_edited
 4. For 17,000 genes, Code for filtering Target by CCM genes and Regulator by CCM and TF genes FilteringInterestedGenes
