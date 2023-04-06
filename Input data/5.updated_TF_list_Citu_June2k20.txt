@@ -1,0 +1,791 @@
+ID	ID Type	Name	Family	Source	Transcription factor	Transcription regulator	Stress/Process
+Cre17.g734564	Phytozome v5	MTHI1		DOI: 10.1105/tpc.19.00770 	Yes	No	Biogenesis of chloroplast ATP synthase - Target: ATPC
+Cre12.g495100	Phytozome v5	PSR1	G2-like	DOI: 10.1105/tpc.19.00179 	Yes	No	Cell growth via TORC1 signaling
+Cre06.g278159	Phytozome v5	CON1	CONSTANS	"DOI: 10.1038/s41467-019-11989-x , doi: 10.1155/2015/715020"	Yes	No	Protective response in photosynthesis
+Cre12.g556400	Phytozome v5	-	NF-Ys	DOI: 10.1038/s41467-019-11989-x 	Yes	No	
+Cre08.g375400	Phytozome v5	GSM1	HB	DOI: 10.1111/tpj.14486 	Yes	No	Gene expression control
+Cre02.g109650	Phytozome v5	GSP1	HB	DOI: 10.1111/tpj.14486 	Yes	No	Gene expression control
+Cre03.g197100	Phytozome v5	LRL1	Myb	doi: 10.1111/tpj.14473	Yes	No	Phosphorus depletion response
+Cre12.g521150	Phytozome v5	CGL19	DOF	doi: 10.1186/s13068-019-1403-1. 10.1016/j.jbiotec.2014.05.003	Yes	No	Lipid metabolism
+Cre05.g238250	Phytozome v5	CrbZIP1	bZIP	doi: 10.1105/tpc.18.00723	Yes	No	Lipid Remodeling
+Cre07.g341300	Phytozome v5	XAP5		DOI: 10.1073/pnas.1719206115 	Yes	No	Flagellar assembly
+Cre09.g387150	Phytozome v5	HSF1	HSF	DOI: 10.1105/tpc.111.085266 	Yes	No	Chromatin Remodeling
+Cre02.g096300	Phytozome v5	CCM1/ CIA5		doi:10.1073/pnas.081593498	Yes	No	CCM
+Cre09.g399552	Phytozome v5	LCR1	Myb	doi: 10.1105/tpc.021162	Yes	No	CCM
+Cre16.g673250	Phytozome v5	NRR1	SBP	DOI 10.1074/jbc.M111.334052	Yes	No	Triglycerol accumulation under Nitrogen starvation
+Cre02.g085050	Phytozome v5	CrHY5		doi:10.1101/2020.02.10.942334	Yes	No	Act as a light switch for photoprotection
+Cre17.g741300	Phytozome v5	SAK1	bZIP	doi: 10.7554/eLife.02286	Yes	No	Regulator of acclimation of singlet oxygen
+Cre02.g125250	Phytozome v5	CRR1	SBP	doi: 10.1104/pp.112.200162	Yes	No	Regulate HYDA1 gene
+Cre08.g381950	Phytozome v5	TAR1		DOI:10.1104/pp.15.00319	Yes	No	Triglycerol production in N and S starvation
+-	Phytozome v5	LTS3		10.1134/S1021443714020034	Yes	No	Regulate Magnsium chelatase
+Cre04.g228400	Phytozome v5	WRK1	WRKY	doi:10.1186/1471-2148-5-1	Yes	No	
+Cre06.g252000	Phytozome v5	LZTFL1	Leucine/zipper TF	DOI 10.1186/s13068-014-0171-1	Yes	No	Lipid accumulation during N starvation
+Cre12.g528400	Phytozome v5	FEMU2	C2H2	doi:10. 1371/journal.pone.0112977	Yes	No	Regulate fox1 (ferroxidase) expression
+Cre12.g510200	Phytozome v5	-	bZIP	10.1016/j.ygeno.2019.06.027	Yes	No	
+Cre14.g620500	Phytozome v5	-	AP2-EREBP	10.1016/j.ygeno.2019.06.027	Yes	No	Change their expression in Cold stress
+Cre01.g000050	Phytozome v5	RWP14	RWP-RK	10.1016/j.algal.2019.101765	Yes	No	Change their expression in Cold stress
+Cre10.g444450	Phytozome v5	SSA17	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre14.g625802	Phytozome v5	-	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre16.g656250	Phytozome v5	SMP12	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre17.g714500	Phytozome v5	HTA1	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre06.g288750	Phytozome v5	CBP20	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre06.g254650	Phytozome v5	-	C3H	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre14.g632050	Phytozome v5	-	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre01.g035150	Phytozome v5	-	C3H	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre10.g446900	Phytozome v5	-	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre02.g115250	Phytozome v5	POC1	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre12.g523200	Phytozome v5	NURF55	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre09.g389550	Phytozome v5	DNJ13	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre03.g197350	Phytozome v5	-	MYB-related	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre17.g713900	Phytozome v5	LST8	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre01.g020400	Phytozome v5	-	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre09.g392350	Phytozome v5	CGLD37	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre01.g035000	Phytozome v5	-	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre17.g729150	Phytozome v5	-	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre16.g662800	Phytozome v5	PRP4	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre06.g275100	Phytozome v5	-	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre06.g274200	Phytozome v5	HTA42	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre12.g507650	Phytozome v5	CDJ1	-	10.1016/j.algal.2019.101765	Yes	No	Change their expression in low CO2
+Cre07.g321550	Phytozome v5	CrebZip4	bZIP	doi:10.3390/ijms19092800	Yes	No	Change their expression in low CO2
+Cre07.g344668	Phytozome v5	CrebZip5	bZIP	doi:10.3390/ijms19092800	Yes	No	 Change their expression in salt stress
+Cre12.g501600	Phytozome v5	CrebZip10	bZIP	doi:10.3390/ijms19092800	Yes	No	 Change their expression in salt stress
+Cre12.g557300	Phytozome v5	CrebZip11	bZIP	doi:10.3390/ijms19092800	Yes	No	 Change their expression in salt stress
+Cre13.g590350	Phytozome v5	CrebZip13	bZIP	doi:10.3390/ijms19092800	Yes	No	 Change their expression in salt stress
+Cre16.g675700	Phytozome v5	CrebZip16	bZIP	doi:10.3390/ijms19092800	Yes	No	 Change their expression in salt stress
+Cre13.g562400	Phytozome v5	ABI3	ABI3/ VP1	Database	Yes	No	
+Cre16.g661650	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre06.g275500	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre08.g364400	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre16.g649433	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre08.g383000	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre16.g674890	Phytozome v5	CGLD5B	AP2-EREBP	Database	Yes	No	
+Cre19.g750947	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre03.g209953	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre08.g385350	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre10.g441300	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre10.g441350	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre01.g023100	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre01.g009650	Phytozome v5	BUG25	AP2-EREBP	Database	Yes	No	
+Cre14.g620500	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre16.g667900	Phytozome v5	-	AP2-EREBP	Database	Yes	No	
+Cre07.g353500	Phytozome v5	CGLD5A	AP2-EREBP	Database	Yes	No	
+Cre05.g243000	Phytozome v5	-	ARR-B	Database	Yes	No	
+Cre07.g332250	Phytozome v5	-	bHLH	Database	Yes	No	
+Cre07.g349152	Phytozome v5	-	bHLH	Database	Yes	No	
+Cre01.g011150	Phytozome v5	-	bHLH	Database	Yes	No	
+Cre02.g109683	Phytozome v5	-	bHLH	Database	Yes	No	
+Cre14.g620850	Phytozome v5	NSG17	bHLH	Database	Yes	No	
+Cre07.g353555	Phytozome v5	-	bHLH	Database	Yes	No	
+Cre05.g241636	Phytozome v5	-	bHLH	Database	Yes	No	
+Cre04.g224600	Phytozome v5	-	bHLH	Database	Yes	No	
+Cre04.g216200	Phytozome v5	-	bHLH 	Database	Yes	No	
+Cre04.g216204	Phytozome v5	-	bHLH 	Database	Yes	No	
+Cre10.g466550	Phytozome v5	-	BSD 	Database	Yes	No	
+Cre06.g284000	Phytozome v5	-	BSD 	Database	Yes	No	
+Cre10.g454850	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre07.g321550	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre13.g568350	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre13.g590350	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre05.g238250	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre12.g557300	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre17.g746547	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre12.g501600	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre16.g692250	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre10.g438850	Phytozome v5	ROC76	bZIP	Database	Yes	No	
+Cre16.g675700	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre12.g510200	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre01.g051174	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre16.g653300	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre09.g413050	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre07.g318050	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre06.g278159	Phytozome v5	-	C2C2-CO-like	Database	Yes	No	
+Cre12.g521150	Phytozome v5	CGL19	C2C2-Dof	Database	Yes	No	
+Cre03.g160600	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre11.g467581	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre10.g435450	Phytozome v5	CPL2	C2C2-GATA	Database	Yes	No	
+Cre12.g538550	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre05.g242600	Phytozome v5	CGL106	C2C2-GATA	Database	Yes	No	
+Cre06.g266950	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre08.g378800	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre03.g160700	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre01.g025050	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre08.g378450	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre06.g266850	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre07.g319701	Phytozome v5	-	C2C2-GATA	Database	Yes	No	
+Cre03.g185950	Phytozome v5	-	C2H2	Database	Yes	No	
+Cre03.g201250	Phytozome v5	-	C2H2	Database	Yes	No	
+Cre09.g389750	Phytozome v5	-	C2H2	Database	Yes	No	
+Cre06.g305200	Phytozome v5	-	C2H2	Database	Yes	No	
+Cre05.g240650	Phytozome v5	DNJ32	C2H2	Database	Yes	No	
+Cre01.g035150	Phytozome v5	-	C3H	Database	Yes	No	
+Cre04.g229948	Phytozome v5	-	C3H	Database	Yes	No	
+Cre03.g145407	Phytozome v5	-	C3H	Database	Yes	No	
+Cre03.g146267	Phytozome v5	-	C3H	Database	Yes	No	
+Cre02.g075650	Phytozome v5	-	C3H	Database	Yes	No	
+Cre03.g172800	Phytozome v5	-	C3H	Database	Yes	No	
+Cre01.g014050	Phytozome v5	-	C3H	Database	Yes	No	
+Cre06.g293750	Phytozome v5	-	C3H	Database	Yes	No	
+Cre06.g250950	Phytozome v5	-	C3H	Database	Yes	No	
+Cre12.g523000	Phytozome v5	-	C3H	Database	Yes	No	
+Cre10.g460400	Phytozome v5	-	C3H	Database	Yes	No	
+Cre02.g097850	Phytozome v5	-	C3H	Database	Yes	No	
+Cre11.g476200	Phytozome v5	-	C3H	Database	Yes	No	
+Cre13.g566200	Phytozome v5	CGL112	C3H	Database	Yes	No	
+Cre03.g154900	Phytozome v5	-	C3H	Database	Yes	No	
+Cre16.g689535	Phytozome v5	-	C3H	Database	Yes	No	
+Cre04.g231124	Phytozome v5	-	C3H	Database	Yes	No	
+Cre07.g330050	Phytozome v5	-	C3H	Database	Yes	No	
+Cre06.g278136	Phytozome v5	-	C3H	Database	Yes	No	
+Cre06.g254650	Phytozome v5	-	C3H	Database	Yes	No	
+Cre11.g476250	Phytozome v5	-	C3H	Database	Yes	No	
+Cre17.g718300	Phytozome v5	-	C3H	Database	Yes	No	
+Cre07.g341800	Phytozome v5	CGL107	NF-YB	Database	Yes	No	
+Cre17.g739450	Phytozome v5	DRT1	NF-YB	Database	Yes	No	
+Cre04.g226400	Phytozome v5	-	NF-YC	Database	Yes	No	
+Cre03.g193900	Phytozome v5	-	NF-YC	Database	Yes	No	
+Cre16.g680050	Phytozome v5	DRT2	NF-YC	Database	Yes	No	
+Cre02.g079200	Phytozome v5	-	NF-YB	Database	Yes	No	
+Cre12.g556400	Phytozome v5	-	NF-YC	Database	Yes	No	
+Cre12.g550250	Phytozome v5	-	CPP	Database	Yes	No	
+Cre08.g361400	Phytozome v5	-	CPP	Database	Yes	No	
+Cre11.g481800	Phytozome v5	-	CPP	Database	Yes	No	
+Cre06.g268600	Phytozome v5	NAB1	CSD	Database	Yes	No	
+Cre02.g078831	Phytozome v5	-	CSD 	Database	Yes	No	
+Cre07.g323000	Phytozome v5	DP1	E2F-DP	Database	Yes	No	
+Cre01.g052300	Phytozome v5	E2F1	E2F-DP	Database	Yes	No	
+Cre13.g572950	Phytozome v5	E2F2	E2F-DP	Database	Yes	No	
+Cre02.g082550	Phytozome v5	ZEP1	FHA	Database	Yes	No	
+Cre02.g119800	Phytozome v5	-	FHA	Database	Yes	No	
+Cre03.g189850	Phytozome v5	-	FHA	Database	Yes	No	
+Cre07.g316600	Phytozome v5	MKP5	FHA	Database	Yes	No	
+Cre12.g516050	Phytozome v5	-	FHA	Database	Yes	No	
+Cre16.g671900	Phytozome v5	PIN4	FHA	Database	Yes	No	
+Cre12.g548250	Phytozome v5	-	FHA	Database	Yes	No	
+Cre09.g402350	Phytozome v5	-	FHA	Database	Yes	No	
+Cre12.g534450	Phytozome v5	CGL86	FHA	Database	Yes	No	
+Cre04.g212050	Phytozome v5	-	FHA	Database	Yes	No	
+Cre03.g152450	Phytozome v5	-	FHA	Database	Yes	No	
+Cre09.g390430	Phytozome v5	-	FHA	Database	Yes	No	
+Cre16.g648800	Phytozome v5	-	FHA	Database	Yes	No	
+Cre17.g696750	Phytozome v5	-	G2-like	Database	Yes	No	
+Cre06.g275350	Phytozome v5	ROC40	G2-like	Database	Yes	No	
+Cre12.g495100	Phytozome v5	PSR1	G2-like	Database	Yes	No	
+Cre02.g083750	Phytozome v5	ROC75	G2-like	Database	Yes	No	
+Cre09.g410450	Phytozome v5	ROC15	G2-like	Database	Yes	No	
+Cre02.g109650	Phytozome v5	GSP1	HB	Database	Yes	No	
+Cre08.g375400	Phytozome v5	GSM1	HB	Database	Yes	No	
+Cre09.g387150	Phytozome v5	HSF1	HSF	Database	Yes	No	
+Cre07.g354500	Phytozome v5	HSF2	HSF	Database	Yes	No	
+Cre06.g253250	Phytozome v5	-	MADS	Database	Yes	No	
+Cre11.g467577	Phytozome v5	-	MADS	Database	Yes	No	
+Cre12.g560750	Phytozome v5	-	mTERF	Database	Yes	No	
+Cre10.g427000	Phytozome v5	MOC2	mTERF	Database	Yes	No	
+Cre09.g408051	Phytozome v5	-	mTERF	Database	Yes	No	
+Cre12.g542500	Phytozome v5	MOC1	mTERF	Database	Yes	No	
+Cre10.g430750	Phytozome v5	-	Myb	Database	Yes	No	
+Cre08.g364050	Phytozome v5	-	Myb	Database	Yes	No	
+Cre06.g264400	Phytozome v5	-	Myb	Database	Yes	No	
+Cre17.g714229	Phytozome v5	-	Myb	Database	Yes	No	
+Cre02.g103450	Phytozome v5	-	Myb	Database	Yes	No	
+Cre06.g249050	Phytozome v5	-	Myb	Database	Yes	No	
+Cre07.g345350	Phytozome v5	-	Myb	Database	Yes	No	
+Cre03.g197100	Phytozome v5	-	Myb	Database	Yes	No	
+Cre02.g108350	Phytozome v5	-	Myb	Database	Yes	No	
+Cre09.g399552	Phytozome v5	LCR1	Myb	Database	Yes	No	
+Cre09.g399067	Phytozome v5	-	Myb	Database	Yes	No	
+Cre01.g003376	Phytozome v5	-	Myb	Database	Yes	No	
+Cre03.g197350	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre14.g632176	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre03.g144747	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre14.g609350	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre16.g677382	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre02.g089150	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre02.g113450	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre12.g507500	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre09.g411950	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre12.g522400	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre03.g198800	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre16.g695600	Phytozome v5	DNJ10	MYB-related	Database	Yes	No	
+Cre01.g034350	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre03.g149201	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre12.g514400	Phytozome v5	-	MYB-related	Database	Yes	No	
+Cre03.g176651	Phytozome v5	MYSM1	MYB-related	Database	Yes	No	
+Cre03.g163200	Phytozome v5	-	NF-X1	Database	Yes	No	
+Cre01.g038050	Phytozome v5	COP7	Orphans	Database	Yes	No	
+Cre02.g074150	Phytozome v5	COP5	Orphans	Database	Yes	No	
+Cre03.g180800	Phytozome v5	HDA16	Orphans	Database	Yes	No	
+Cre06.g278200	Phytozome v5	ROC66	Orphans	Database	Yes	No	
+Cre07.g329900	Phytozome v5	COP8	Orphans	Database	Yes	No	
+Cre13.g602700	Phytozome v5	-	Orphans	Database	Yes	No	
+Cre10.g446450	Phytozome v5	-	Orphans	Database	Yes	No	
+Cre13.g572450	Phytozome v5	-	Orphans	Database	Yes	No	
+Cre11.g469400	Phytozome v5	HKR4	Orphans	Database	Yes	No	
+Cre16.g678900	Phytozome v5	HKR6	Orphans	Database	Yes	No	
+Cre12.g534100	Phytozome v5	CON2	Orphans	Database	Yes	No	
+Cre13.g571200	Phytozome v5	HKR5	Orphans	Database	Yes	No	
+Cre15.g635100	Phytozome v5	-	Orphans	Database	Yes	No	
+Cre16.g675100	Phytozome v5	CPLD53	Orphans	Database	Yes	No	
+Cre07.g351550	Phytozome v5	-	Orphans	Database	Yes	No	
+Cre16.g650400	Phytozome v5	CPL20	PLATZ	Database	Yes	No	
+Cre12.g502251	Phytozome v5	-	PLATZ	Database	Yes	No	
+Cre10.g453500	Phytozome v5	-	RWP-RK	Database	Yes	No	
+Cre03.g149400	Phytozome v5	RWP11	RWP-RK	Database	Yes	No	
+Cre03.g184600	Phytozome v5	RWP7	RWP-RK	Database	Yes	No	
+Cre04.g218050	Phytozome v5	RWP8	RWP-RK	Database	Yes	No	
+Cre06.g291500	Phytozome v5	RWP6	RWP-RK	Database	Yes	No	
+Cre03.g153050	Phytozome v5	RWP1	RWP-RK	Database	Yes	No	
+Cre03.g177700	Phytozome v5	NIT2	RWP-RK	Database	Yes	No	
+Cre09.g387850	Phytozome v5	RWP13	RWP-RK	Database	Yes	No	
+Cre03.g149350	Phytozome v5	RWP4	RWP-RK	Database	Yes	No	
+Cre01.g004600	Phytozome v5	RWP12	RWP-RK	Database	Yes	No	
+Cre14.g612100	Phytozome v5	RWP3	RWP-RK	Database	Yes	No	
+Cre06.g275550	Phytozome v5	RWP2	RWP-RK	Database	Yes	No	
+Cre01.g000050	Phytozome v5	RWP14	RWP-RK	Database	Yes	No	
+Cre06.g275600	Phytozome v5	-	RWP-RK	Database	Yes	No	
+Cre06.g297150	Phytozome v5	RWP9	RWP-RK	Database	Yes	No	
+Cre03.g193400	Phytozome v5	-	S1Fa-like 	Database	Yes	No	
+Cre03.g194950	Phytozome v5	RPOD	S1Fa-like 	Database	Yes	No	
+Cre09.g390023	Phytozome v5	CRR1	SBP	Database	Yes	No	
+Cre01.g043550	Phytozome v5	-	SBP	Database	Yes	No	
+Cre02.g085150	Phytozome v5	-	SBP	Database	Yes	No	
+Cre02.g104700	Phytozome v5	-	SBP	Database	Yes	No	
+Cre02.g112750	Phytozome v5	-	SBP	Database	Yes	No	
+Cre10.g433350	Phytozome v5	-	SBP	Database	Yes	No	
+Cre06.g300600	Phytozome v5	-	SBP	Database	Yes	No	
+Cre16.g686100	Phytozome v5	-	SBP	Database	Yes	No	
+Cre07.g345050	Phytozome v5	-	SBP	Database	Yes	No	
+Cre07.g335150	Phytozome v5	-	SBP	Database	Yes	No	
+Cre10.g421550	Phytozome v5	-	SBP	Database	Yes	No	
+Cre05.g233551	Phytozome v5	-	SBP	Database	Yes	No	
+Cre04.g212700	Phytozome v5	-	SBP	Database	Yes	No	
+Cre16.g673250	Phytozome v5	NRR1	SBP	Database	Yes	No	
+Cre07.g325738	Phytozome v5	-	SBP	Database	Yes	No	
+Cre17.g698233	Phytozome v5	-	SBP	Database	Yes	No	
+Cre01.g070932	Phytozome v5	-	SBP	Database	Yes	No	
+Cre01.g012200	Phytozome v5	-	SBP	Database	Yes	No	
+Cre16.g683953	Phytozome v5	-	SBP	Database	Yes	No	
+Cre16.g692500	Phytozome v5	-	SBP	Database	Yes	No	
+Cre02.g110150	Phytozome v5	-	SBP	Database	Yes	No	
+Cre01.g033900	Phytozome v5	-	SBP	Database	Yes	No	
+Cre09.g399289	Phytozome v5	-	SBP	Database	Yes	No	
+Cre08.g358563	Phytozome v5	-	Sigma70-like	Database	Yes	No	
+Cre12.g489600	Phytozome v5	-	Sigma70-like	Database	Yes	No	
+Cre03.g212641	Phytozome v5	-	TAZ	Database	Yes	No	
+Cre03.g189650	Phytozome v5	-	TAZ	Database	Yes	No	
+Cre03.g212977	Phytozome v5	-	TAZ	Database	Yes	No	
+Cre11.g467665	Phytozome v5	-	TIG	Database	Yes	No	
+Cre07.g340450	Phytozome v5	PKHD1	TIG	Database	Yes	No	
+Cre10.g436800	Phytozome v5	-	TIG	Database	Yes	No	
+Cre12.g520650	Phytozome v5	TLP1	TUB	Database	Yes	No	
+Cre16.g667450	Phytozome v5	TLP2	TUB	Database	Yes	No	
+Cre03.g155450	Phytozome v5	-	TUB	Database	Yes	No	
+Cre09.g393654	Phytozome v5	-	VARL	Database	Yes	No	
+Cre14.g617151	Phytozome v5	-	VARL	Database	Yes	No	
+Cre17.g734612	Phytozome v5	MRP2	VARL	Database	Yes	No	
+Cre09.g393284	Phytozome v5	RLS8	VARL	Database	Yes	No	
+Cre06.g302150	Phytozome v5	-	VARL	Database	Yes	No	
+Cre01.g010750	Phytozome v5	-	VARL	Database	Yes	No	
+Cre17.g709800	Phytozome v5	RLS1	VARL	Database	Yes	No	
+Cre15.g643700	Phytozome v5	RLS6	VARL	Database	Yes	No	
+Cre10.g418600	Phytozome v5	RLS3	VARL	Database	Yes	No	
+Cre06.g304250	Phytozome v5	RLS2	VARL	Database	Yes	No	
+Cre17.g738600	Phytozome v5	RLS5	VARL	Database	Yes	No	
+Cre14.g617200	Phytozome v5	RLS7	VARL	Database	Yes	No	
+Cre02.g091550	Phytozome v5	WHI	Whirly	Database	Yes	No	
+Cre04.g228400	Phytozome v5	WRK1	WRKY	Database	Yes	No	
+Cre01.g009575	Phytozome v5	-	AP2	Database	Yes	No	
+Cre03.g188200	Phytozome v5	RPH2	Myb_DNA-binding	Database	Yes	No	
+Cre04.g229374	Phytozome v5	-	zf-CCCH	Database	Yes	No	
+Cre05.g240600	Phytozome v5	-	DnaJ zf-C2H2	Database	Yes	No	
+Cre05.g241634	Phytozome v5	HAV1	NF-YC Histone	Database	Yes	No	
+Cre06.g278229	Phytozome v5	-	SBP	Database	Yes	No	
+Cre06.g285600	Phytozome v5	RWP5	RWP-RK	Database	Yes	No	
+Cre06.g292650	Phytozome v5	ROC93	TFIIS zf-CCCH	Database	Yes	No	
+Cre07.g326150	Phytozome v5	-	zf-CCCH	Database	Yes	No	
+Cre10.g450500	Phytozome v5	-	Myb_DNA-binding	Database	Yes	No	
+Cre11.g467678	Phytozome v5	COP6	Bac_rhodopsin Guanylate_cyc HATPase_c HisKA Response_reg SAM_1	Database	Yes	No	
+Cre11.g479450	Phytozome v5	-	bZIP_1 bZIP_2	Database	Yes	No	
+Cre12.g502650	Phytozome v5	-	PLATZ	Database	Yes	No	
+Cre12.g556950	Phytozome v5	-	bZIP_1	Database	Yes	No	
+Cre16.g672400	Phytozome v5	-	Myb_DNA-binding	Database	Yes	No	
+Cre16.g680232	Phytozome v5	-	DUF1042 bZIP_2	Database	Yes	No	
+Cre06.g310500	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre07.g344668	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre08.g358532	Phytozome v5	-	GATA	Database	Yes	No	
+Cre08.g358534	Phytozome v5	-	GATA	Database	Yes	No	
+Cre09.g386753	Phytozome v5	-	S1Fa-like	Database	Yes	No	
+Cre12.g489000	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre14.g631750	Phytozome v5	-	bZIP	Database	Yes	No	
+Cre16.g667150	Phytozome v5	-	bHLH	Database	Yes	No	
+Cre16.g672300	Phytozome v5	-	YABBY	Database	Yes	No	
+Cre17.g729600	Phytozome v5	-	AP2	Database	Yes	No	
+Cre02.g100100	Phytozome v5	-	AP2	Database	Yes	No	
+Cre03.g144424	Phytozome v5	-	AP2	Database	Yes	No	
+Cre06.g278181	Phytozome v5	-	ERF	Database	Yes	No	
+Cre03.g174500	Phytozome v5	HDZ1	HB-other	Database	Yes	No	
+Cre03.g200431	Phytozome v5	-	HB-other	Database	Yes	No	
+Cre03.g152150	Phytozome v5	-	C2H2	Database	Yes	No	
+Cre08.g371052	Phytozome v5	-	C3H	Database	Yes	No	
+Cre12.g517350	Phytozome v5	LSD1	LSD	Database	Yes	No	
+Cre12.g538801	Phytozome v5	-	C2H2	Database	Yes	No	
+Cre13.g567250	Phytozome v5	-	C2H2	Database	Yes	No	
+Cre13.g606750	Phytozome v5	-	C3H	Database	Yes	No	
+Cre17.g696300	Phytozome v5	-	C2H2	Database	Yes	No	
+Cre14.g621050	Phytozome v5	-	MYB	Database	Yes	No	
+Cre02.g110550	Phytozome v5	-	MYB	Database	Yes	No	
+Cre02.g111200	Phytozome v5	-	MYB	Database	Yes	No	
+Cre02.g146629	Phytozome v5	-	MYB	Database	Yes	No	
+Cre06.g289900	Phytozome v5	HEN2	MYB	Database	Yes	No	
+Cre09.g391353	Phytozome v5	-	MYB	Database	Yes	No	
+Cre09.g397475	Phytozome v5	-	MYB	Database	Yes	No	
+Cre09.g411600	Phytozome v5	-	MYB	Database	Yes	No	
+Cre10.g421021	Phytozome v5	-	MYB	Database	Yes	No	
+Cre14.g621172	Phytozome v5	-	MYB	Database	Yes	No	
+Cre14.g633789	Phytozome v5	-	MYB	Database	Yes	No	
+Cre15.g639350	Phytozome v5	-	MYB	Database	Yes	No	
+Cre16.g686250	Phytozome v5	-	MYB	Database	Yes	No	
+415443	Phytozome v4	-	ACT HLH	Database	Yes	No	
+282912	Phytozome v4	-	AP2	Database	Yes	No	
+286726	Phytozome v4	-	AP2	Database	Yes	No	
+347049	Phytozome v4	-	AP2	Database	Yes	No	
+396350	Phytozome v4	-	AP2	Database	Yes	No	
+403218	Phytozome v4	-	AP2	Database	Yes	No	
+412290	Phytozome v4	-	AP2	Database	Yes	No	
+416794	Phytozome v4	-	AP2	Database	Yes	No	
+420535	Phytozome v4	-	AP2	Database	Yes	No	
+8922	Phytozome v4	-	B3	Database	Yes	No	
+296386	Phytozome v4	-	Bac_rhodopsin Guanylate_cyc HATPase_c HisKA Response_reg SAM_1 SAM_2	Database	Yes	No	
+405644	Phytozome v4	-	Bac_rhodopsin HATPase_c HisKA Response_reg	Database	Yes	No	
+295381	Phytozome v4	-	BSD	Database	Yes	No	
+420943	Phytozome v4	-	BSD	Database	Yes	No	
+393055	Phytozome v4	-	bZIP_1 bZIP_2	Database	Yes	No	
+410640	Phytozome v4	-	bZIP_1 bZIP_2	Database	Yes	No	
+290169	Phytozome v4	-	bZIP_2	Database	Yes	No	
+406347	Phytozome v4	-	bZIP_2	Database	Yes	No	
+426624	Phytozome v4	-	bZIP_2	Database	Yes	No	
+393258	Phytozome v4	-	CCT	Database	Yes	No	
+396091	Phytozome v4	-	CCT	Database	Yes	No	
+400665	Phytozome v4	-	CCT	Database	Yes	No	
+404672	Phytozome v4	-	CCT	Database	Yes	No	
+426452	Phytozome v4	-	CCT Exo_endo_phos	Database	Yes	No	
+295982	Phytozome v4	-	CSD	Database	Yes	No	
+425069	Phytozome v4	-	CXC	Database	Yes	No	
+298349	Phytozome v4	-	DnaJ Myb_DNA-binding	Database	Yes	No	
+206363	Phytozome v4	-	DP E2F_TDP	Database	Yes	No	
+206364	Phytozome v4	-	E2F_TDP	Database	Yes	No	
+154254	Phytozome v4	-	FHA	Database	Yes	No	
+193280	Phytozome v4	-	FHA	Database	Yes	No	
+285394	Phytozome v4	-	FHA	Database	Yes	No	
+417473	Phytozome v4	-	FHA	Database	Yes	No	
+423635	Phytozome v4	-	FHA	Database	Yes	No	
+423729	Phytozome v4	-	FHA zf-C3HC4	Database	Yes	No	
+115247	Phytozome v4	-	G2-like	Database	Yes	No	
+410707	Phytozome v4	-	G2-like Response_reg	Database	Yes	No	
+171659	Phytozome v4	-	GATA	Database	Yes	No	
+345074	Phytozome v4	-	GATA	Database	Yes	No	
+417527	Phytozome v4	-	GATA	Database	Yes	No	
+426757	Phytozome v4	-	GATA Involucrin	Database	Yes	No	
+293987	Phytozome v4	-	HLH	Database	Yes	No	
+393622	Phytozome v4	-	HLH	Database	Yes	No	
+405949	Phytozome v4	-	HLH	Database	Yes	No	
+408144	Phytozome v4	-	HLH	Database	Yes	No	
+328060	Phytozome v4	-	HSF_DNA-bind	Database	Yes	No	
+399062	Phytozome v4	-	HSF_DNA-bind	Database	Yes	No	
+330898	Phytozome v4	-	mTERF	Database	Yes	No	
+376761	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+377858	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+401376	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+409453	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+119948	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+284832	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+338485	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+342954	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+400190	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+402780	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+415966	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+417388	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+426728	Phytozome v4	-	Myb_DNA-binding	Database	Yes	No	
+290570	Phytozome v4	-	Myb_DNA-binding SWIRM	Database	Yes	No	
+378904	Phytozome v4	-	NF-YB CBFD_NFYB_HMF	Database	Yes	No	
+291579	Phytozome v4	-	Pericardin_rpt SBP	Database	Yes	No	
+419111	Phytozome v4	-	Pericardin_rpt zf-CCCH	Database	Yes	No	
+426843	Phytozome v4	-	PLATZ	Database	Yes	No	
+323313	Phytozome v4	-	PP2C zf-CCCH	Database	Yes	No	
+281993	Phytozome v4	-	Response_reg	Database	Yes	No	
+347478	Phytozome v4	-	Response_reg	Database	Yes	No	
+411913	Phytozome v4	-	Response_reg	Database	Yes	No	
+413078	Phytozome v4	-	Response_reg WD40	Database	Yes	No	
+417182	Phytozome v4	-	RRM_1 zf-CCCH	Database	Yes	No	
+186995	Phytozome v4	-	RWP-RK	Database	Yes	No	
+195916	Phytozome v4	-	RWP-RK	Database	Yes	No	
+407701	Phytozome v4	-	S1FA	Database	Yes	No	
+101657	Phytozome v4	-	SBP	Database	Yes	No	
+121939	Phytozome v4	-	SBP	Database	Yes	No	
+288620	Phytozome v4	-	SBP	Database	Yes	No	
+290479	Phytozome v4	-	SBP	Database	Yes	No	
+405089	Phytozome v4	-	SBP	Database	Yes	No	
+414856	Phytozome v4	-	SBP	Database	Yes	No	
+96716	Phytozome v4	-	SBP	Database	Yes	No	
+206388	Phytozome v4	-	Sigma70_r2	Database	Yes	No	
+400512	Phytozome v4	-	VARL	Database	Yes	No	
+406248	Phytozome v4	-	VARL	Database	Yes	No	
+409369	Phytozome v4	-	VARL	Database	Yes	No	
+415440	Phytozome v4	-	VARL	Database	Yes	No	
+205718	Phytozome v4	-	WRKY	Database	Yes	No	
+149734	Phytozome v4	-	zf-C2H2	Database	Yes	No	
+119209	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+146239	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+292744	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+390321	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+393724	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+406697	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+413911	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+421287	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+424240	Phytozome v4	-	zf-CCCH	Database	Yes	No	
+321493	Phytozome v4	-	zf-TAZ	Database	Yes	No	
+398286	Phytozome v4	-	zf-TAZ	Database	Yes	No	
+ AB363965	EMBL	-	ROC15	doi:10.1101/gad.1650408	Yes	No	Circadian rhythm
+ AB363966	EMBL	-	 ROC40	doi:10.1101/gad.1650408	Yes	No	Circadian rhythm
+ AB363967	EMBL	-	ROC55	doi:10.1101/gad.1650408	Yes	No	Circadian rhythm
+ AB363968	EMBL	-	ROC75	doi:10.1101/gad.1650408	Yes	No	Circadian rhythm
+ AB363969	EMBL	-	ROC114	doi:10.1101/gad.1650408	Yes	No	Circadian rhythm
+AB363970	EMBL	-	ROC66	doi:10.1101/gad.1650408	Yes	No	Circadian rhythm
+Cre16.g668200	Phytozome v5	-	ARID Family	Database	No	Yes	
+Cre16.g672300	Phytozome v5	-	HMG	Database	No	Yes	
+Cre01.g015050	Phytozome v5	AGK1	SNF2	Database	No	Yes	
+Cre07.g322450	Phytozome v5	-	PHD	Database	No	Yes	
+Cre08.g380151	Phytozome v5	-	PHD	Database	No	Yes	
+Cre07.g334200	Phytozome v5	HEL38	SNF2	Database	No	Yes	
+Cre02.g078700	Phytozome v5	-	JUMONJI	Database	No	Yes	
+Cre06.g261450	Phytozome v5	-	HMG	Database	No	Yes	
+Cre17.g709550	Phytozome v5	-	JUMONJI	Database	No	Yes	
+Cre01.g029450	Phytozome v5	-	HMG	Database	No	Yes	
+Cre08.g367300	Phytozome v5	-	DDT	Database	No	Yes	
+Cre08.g358532	Phytozome v5	-	PHD	Database	No	Yes	
+Cre12.g508050	Phytozome v5	-	ARID	Database	No	Yes	
+Cre12.g514250	Phytozome v5	HLM17	ARID	Database	No	Yes	
+Cre10.g429880	Phytozome v5	CGL156	ARID	Database	No	Yes	
+Cre13.g571050	Phytozome v5	-	ARID	Database	No	Yes	
+Cre07.g325722	Phytozome v5	-	coactivator p15	Database	No	Yes	
+Cre05.g247000	Phytozome v5	-	DDT	Database	No	Yes	
+Cre03.g174500	Phytozome v5	HDZ1	DDT	Database	No	Yes	
+Cre17.g702500	Phytozome v5	TAB2	DUF	Database	No	Yes	
+Cre06.g278108	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre05.g236400	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre11.g475100	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre08.g383150	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre12.g516150	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre05.g236850	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre05.g236878	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre06.g282250	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre02.g144800	Phytozome v5	LCI8	GNAT	Database	No	Yes	
+Cre06.g256200	Phytozome v5	HAT3	GNAT	Database	No	Yes	
+Cre07.g331450	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre07.g354100	Phytozome v5	HAT4	GNAT	Database	No	Yes	
+Cre13.g586450	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre07.g351850	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre13.g572150	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre16.g657150	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre10.g431450	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre02.g084550	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre06.g269100	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre16.g662650	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre10.g464750	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre14.g614750	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre03.g184151	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre14.g623800	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre02.g101850	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre08.g364450	Phytozome v5	NAT1	GNAT	Database	No	Yes	
+Cre17.g705950	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre17.g729750	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre12.g560200	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre01.g009550	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre09.g392300	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre01.g002250	Phytozome v5	NAT4	GNAT	Database	No	Yes	
+Cre01.g048800	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre13.g581150	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre13.g583217	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre07.g331475	Phytozome v5	-	GNAT	Database	No	Yes	
+Cre10.g442850	Phytozome v5	TOP1A	HMG	Database	No	Yes	
+Cre11.g481050	Phytozome v5	-	HMG	Database	No	Yes	
+Cre12.g558950	Phytozome v5	-	HMG	Database	No	Yes	
+Cre17.g702650	Phytozome v5	-	HMG	Database	No	Yes	
+Cre11.g480950	Phytozome v5	-	HMG	Database	No	Yes	
+Cre10.g441000	Phytozome v5	-	IWS1	Database	No	Yes	
+Cre03.g169950	Phytozome v5	-	Jumonji	Database	No	Yes	
+Cre07.g327150	Phytozome v5	-	Jumonji	Database	No	Yes	
+Cre10.g446850	Phytozome v5	-	Jumonji	Database	No	Yes	
+Cre12.g485950	Phytozome v5	-	Jumonji	Database	No	Yes	
+Cre16.g654550	Phytozome v5	-	Jumonji	Database	No	Yes	
+Cre12.g517350	Phytozome v5	LSD1	LSD1	Database	No	Yes	
+Cre02.g108450	Phytozome v5	FAP280	MBF1	Database	No	Yes	
+Cre01.g062902	Phytozome v5	-	MED7	Database	No	Yes	
+Cre02.g142306	Phytozome v5	-	PHD	Database	No	Yes	
+Cre08.g373352	Phytozome v5	-	PHD	Database	No	Yes	
+Cre02.g142927	Phytozome v5	-	PHD	Database	No	Yes	
+Cre09.g398141	Phytozome v5	-	PHD	Database	No	Yes	
+Cre10.g455600	Phytozome v5	ORC1	PHD	Database	No	Yes	
+Cre17.g733450	Phytozome v5	-	PHD	Database	No	Yes	
+Cre10.g446600	Phytozome v5	-	PHD	Database	No	Yes	
+Cre02.g095045	Phytozome v5	-	PHD	Database	No	Yes	
+Cre03.g148250	Phytozome v5	CGL58	PHD	Database	No	Yes	
+Cre06.g262800	Phytozome v5	-	PHD	Database	No	Yes	
+Cre09.g388600	Phytozome v5	-	PHD	Database	No	Yes	
+Cre12.g500900	Phytozome v5	-	PHD	Database	No	Yes	
+Cre16.g679050	Phytozome v5	-	PHD	Database	No	Yes	
+Cre12.g515050	Phytozome v5	-	PHD	Database	No	Yes	
+Cre14.g612350	Phytozome v5	-	PHD	Database	No	Yes	
+Cre10.g441050	Phytozome v5	-	PHD	Database	No	Yes	
+Cre06.g278269	Phytozome v5	-	PHD	Database	No	Yes	
+Cre08.g358543	Phytozome v5	-	PHD	Database	No	Yes	
+Cre16.g675246	Phytozome v5	-	PHD	Database	No	Yes	
+Cre12.g492200	Phytozome v5	-	PHD	Database	No	Yes	
+Cre13.g578501	Phytozome v5	-	PHD 	Database	No	Yes	
+Cre07.g320950	Phytozome v5	-	PHD 	Database	No	Yes	
+Cre02.g094150	Phytozome v5	HKR2	Pseudo ARR-B	Database	No	Yes	
+Cre16.g676421	Phytozome v5	-	Pseudo ARR-B	Database	No	Yes	
+Cre17.g746647	Phytozome v5	PUF2	Pumilio	Database	No	Yes	
+Cre06.g255450	Phytozome v5	MAT3	RB	Database	No	Yes	
+Cre12.g540400	Phytozome v5	RCD1	Rcd1-like	Database	No	Yes	
+Cre10.g429200	Phytozome v5	-	SET	Database	No	Yes	
+Cre12.g541777	Phytozome v5	CGL95	SET	Database	No	Yes	
+Cre02.g089200	Phytozome v5	HLM4	SET	Database	No	Yes	
+Cre03.g164650	Phytozome v5	MOT1	SET	Database	No	Yes	
+Cre03.g197700	Phytozome v5	HLM8	SET	Database	No	Yes	
+Cre06.g283200	Phytozome v5	-	SET	Database	No	Yes	
+Cre07.g321200	Phytozome v5	-	SET	Database	No	Yes	
+Cre07.g352600	Phytozome v5	-	SET	Database	No	Yes	
+Cre11.g475950	Phytozome v5	HLM16	SET	Database	No	Yes	
+Cre12.g503800	Phytozome v5	RMT5	SET	Database	No	Yes	
+Cre17.g732901	Phytozome v5	-	SET	Database	No	Yes	
+Cre17.g742700	Phytozome v5	CGLD30	SET	Database	No	Yes	
+Cre17.g702351	Phytozome v5	-	SET	Database	No	Yes	
+Cre10.g437829	Phytozome v5	CIA6	SET	Database	No	Yes	
+Cre12.g503450	Phytozome v5	-	SET	Database	No	Yes	
+Cre06.g281000	Phytozome v5	-	SET	Database	No	Yes	
+Cre17.g746247	Phytozome v5	-	SET	Database	No	Yes	
+Cre17.g702451	Phytozome v5	-	SET	Database	No	Yes	
+Cre13.g573000	Phytozome v5	E2FR1	SET	Database	No	Yes	
+Cre08.g377200	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre16.g647602	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre11.g479300	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre12.g537671	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre03.g199350	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre02.g087600	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre03.g158550	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre03.g179300	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre03.g183350	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre03.g189000	Phytozome v5	RAD54A	SNF2	Database	No	Yes	
+Cre06.g270850	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre06.g287950	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre09.g390000	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre10.g430950	Phytozome v5	RAD54B	SNF2	Database	No	Yes	
+Cre12.g508150	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre10.g455750	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre14.g614400	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre07.g325700	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre01.g046237	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre14.g618860	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre05.g236950	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre16.g687301	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre02.g143800	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre13.g603400	Phytozome v5	-	SNF2	Database	No	Yes	
+Cre12.g520850	Phytozome v5	-	SOH1	Database	No	Yes	
+Cre10.g448700	Phytozome v5	-	SWI/SNF-BAF60b	Database	No	Yes	
+Cre02.g118250	Phytozome v5	SWB1	SWI/SNF-BAF60b	Database	No	Yes	
+Cre06.g278184	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre09.g401219	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre04.g219400	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre14.g610631	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre13.g580450	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre04.g220250	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre16.g653258	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre03.g151050	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre03.g173165	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre14.g614500	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre03.g158850	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre07.g335950	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre02.g101550	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre03.g144284	Phytozome v5	CGL110	TRAF	Database	No	Yes	
+Cre02.g096700	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre01.g001600	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre01.g022950	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre03.g174150	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre04.g215450	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre06.g286700	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre02.g101150	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre04.g219600	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre03.g179650	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre13.g583150	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre04.g213650	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre01.g048501	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre14.g610550	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre04.g219500	Phytozome v5	DNJ30	TRAF	Database	No	Yes	
+Cre04.g218400	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre12.g532900	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre17.g700600	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre17.g700550	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre11.g479800	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre04.g211700	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre02.g101300	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre03.g174200	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre04.g212100	Phytozome v5	-	TRAF	Database	No	Yes	
+Cre02.g087551	Phytozome v5	-	Helicase_C SNF2_N	Database	No	Yes	
+Cre02.g101500	Phytozome v5	MRS1	BTB CorA	Database	No	Yes	
+Cre03.g162701	Phytozome v5	-	Helicase_C SNF2_N	Database	No	Yes	
+Cre03.g179000	Phytozome v5	-	BTB DUF6	Database	No	Yes	
+Cre03.g210625	Phytozome v5	-	Helicase_C SNF2_N zf-C3HC4	Database	No	Yes	
+Cre04.g219300	Phytozome v5	-	APH BTB DUF227 DnaJ Rieske	Database	No	Yes	
+Cre04.g221900	Phytozome v5	-	BTB	Database	No	Yes	
+Cre11.g478850	Phytozome v5	-	BTB	Database	No	Yes	
+Cre12.g540350	Phytozome v5	RCD2	Rcd1	Database	No	Yes	
+Cre13.g586950	Phytozome v5	-	Acetyltransf_1	Database	No	Yes	
+Cre16.g653250	Phytozome v5	-	BTB	Database	No	Yes	
+282628	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+283458	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+287999	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+288117	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+289541	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+290467	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+296895	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+332869	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+337711	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+377090	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+392969	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+403364	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+410683	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+411842	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+413200	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+420467	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+412106	Phytozome v4	-	Acetyltransf_1 DUF202	Database	No	Yes	
+400305	Phytozome v4	-	Acetyltransf_1 zf-MYND	Database	No	Yes	
+186244	Phytozome v4	-	ARID	Database	No	Yes	
+206251	Phytozome v4	-	ARID	Database	No	Yes	
+424539	Phytozome v4	-	ARID JmjC JmjN PHD PLU-1 zf-C5HC2	Database	No	Yes	
+398723	Phytozome v4	-	Arm BTB HEAT	Database	No	Yes	
+402783	Phytozome v4	-	AT_hook Helicase_C SNF2_N	Database	No	Yes	
+286429	Phytozome v4	-	BTB	Database	No	Yes	
+293873	Phytozome v4	-	BTB	Database	No	Yes	
+330520	Phytozome v4	-	BTB	Database	No	Yes	
+380951	Phytozome v4	-	BTB	Database	No	Yes	
+394645	Phytozome v4	-	BTB	Database	No	Yes	
+402799	Phytozome v4	-	BTB	Database	No	Yes	
+410154	Phytozome v4	-	BTB	Database	No	Yes	
+410155	Phytozome v4	-	BTB	Database	No	Yes	
+413021	Phytozome v4	-	BTB	Database	No	Yes	
+414959	Phytozome v4	-	BTB	Database	No	Yes	
+422704	Phytozome v4	-	BTB	Database	No	Yes	
+423158	Phytozome v4	-	BTB	Database	No	Yes	
+398123	Phytozome v4	-	BTB NHL	Database	No	Yes	
+117345	Phytozome v4	-	Helicase_C SNF2_N	Database	No	Yes	
+196757	Phytozome v4	-	Helicase_C SNF2_N	Database	No	Yes	
+206669	Phytozome v4	-	Helicase_C SNF2_N	Database	No	Yes	
+206670	Phytozome v4	-	Helicase_C SNF2_N	Database	No	Yes	
+423513	Phytozome v4	-	HMG_box	Database	No	Yes	
+379612	Phytozome v4	-	IWS1_C	Database	No	Yes	
+142903	Phytozome v4	-	JmjC	Database	No	Yes	
+415885	Phytozome v4	-	JmjC	Database	No	Yes	
+391557	Phytozome v4	-	MED7	Database	No	Yes	
+398164	Phytozome v4	-	PC4	Database	No	Yes	
+283848	Phytozome v4	-	PHD	Database	No	Yes	
+287740	Phytozome v4	-	PHD	Database	No	Yes	
+288229	Phytozome v4	-	PHD	Database	No	Yes	
+288467	Phytozome v4	-	PHD	Database	No	Yes	
+288468	Phytozome v4	-	PHD	Database	No	Yes	
+297670	Phytozome v4	-	PHD	Database	No	Yes	
+308637	Phytozome v4	-	PHD	Database	No	Yes	
+319711	Phytozome v4	-	PHD	Database	No	Yes	
+321619	Phytozome v4	-	PHD	Database	No	Yes	
+394613	Phytozome v4	-	PHD	Database	No	Yes	
+397840	Phytozome v4	-	PHD	Database	No	Yes	
+400461	Phytozome v4	-	PHD	Database	No	Yes	
+401818	Phytozome v4	-	PHD	Database	No	Yes	
+408154	Phytozome v4	-	PHD	Database	No	Yes	
+408168	Phytozome v4	-	PHD	Database	No	Yes	
+412089	Phytozome v4	-	PHD	Database	No	Yes	
+421961	Phytozome v4	-	PHD	Database	No	Yes	
+330078	Phytozome v4	-	PHD zf-MIZ	Database	No	Yes	
+291416	Phytozome v4	-	SET	Database	No	Yes	
+295365	Phytozome v4	-	SET	Database	No	Yes	
+296863	Phytozome v4	-	SET	Database	No	Yes	
+424885	Phytozome v4	-	SOH1	Database	No	Yes	
+153097	Phytozome v4	-	BTB	Database	No	Yes	
+121974	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+146398	Phytozome v4	-	BTB	Database	No	Yes	
+189879	Phytozome v4	-	HMG_box SSrecog	Database	No	Yes	
+146860	Phytozome v4	-	BTB	Database	No	Yes	
+97080	Phytozome v4	-	JmjC	Database	No	Yes	
+6783	Phytozome v4	-	Helicase_C SNF2_N	Database	No	Yes	
+6823	Phytozome v4	-	SET YDG_SRA	Database	No	Yes	
+166515	Phytozome v4	-	CCT Response_reg	Database	No	Yes	
+166883	Phytozome v4	-	BTB	Database	No	Yes	
+186922	Phytozome v4	-	BTB CorA	Database	No	Yes	
+76570	Phytozome v4	-	HTH_3 MBF1	Database	No	Yes	
+194816	Phytozome v4	-	DEK_C SWIB	Database	No	Yes	
+130199	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+149807	Phytozome v4	-	PHD PSGP	Database	No	Yes	
+150334	Phytozome v4	-	Chromo Helicase_C SNF2_N	Database	No	Yes	
+169174	Phytozome v4	-	Helicase_C SNF2_N	Database	No	Yes	
+169142	Phytozome v4	-	SET	Database	No	Yes	
+143897	Phytozome v4	-	BTB	Database	No	Yes	
+188181	Phytozome v4	-	BTB Pericardin_rpt	Database	No	Yes	
+325701	Phytozome v4	-	BTB DUF6	Database	No	Yes	
+188131	Phytozome v4	-	Chromo Helicase_C SNF2_N	Database	No	Yes	
+180087	Phytozome v4	-	Helicase_C SNF2_N	Database	No	Yes	
+115555	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+172711	Phytozome v4	-	FYRC FYRN PWWP SET	Database	No	Yes	
+152316	Phytozome v4	-	Helicase_C SNF2_N zf-C3HC4	Database	No	Yes	
+151805	Phytozome v4	-	BTB	Database	No	Yes	
+193279	Phytozome v4	-	BTB	Database	No	Yes	
+193262	Phytozome v4	-	BTB	Database	No	Yes	
+151740	Phytozome v4	-	BTB	Database	No	Yes	
+11662	Phytozome v4	-	APH BTB DUF227 DnaJ Rieske	Database	No	Yes	
+145759	Phytozome v4	-	BTB	Database	No	Yes	
+187405	Phytozome v4	-	Bromodomain DDT PHD	Database	No	Yes	
+187248	Phytozome v4	-	RB_A RB_B	Database	No	Yes	
+142398	Phytozome v4	-	Acetyltransf_1 Bromodomain	Database	No	Yes	
+142283	Phytozome v4	-	HMG_box	Database	No	Yes	
+142152	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+7539	Phytozome v4	-	Helicase_C SNF2_N	Database	No	Yes	
+205788	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+151334	Phytozome v4	-	BTB	Database	No	Yes	
+142793	Phytozome v4	-	SET	Database	No	Yes	
+95444	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+173857	Phytozome v4	-	Chromo Helicase_C PHD	Database	No	Yes	
+173539	Phytozome v4	-	Agenet Helicase_C SNF2_N	Database	No	Yes	
+148265	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+151030	Phytozome v4	-	BTB	Database	No	Yes	
+8547	Phytozome v4	-	SWIB	Database	No	Yes	
+143060	Phytozome v4	-	AAA BAH PHD	Database	No	Yes	
+168128	Phytozome v4	-	Helicase_C SNF2_N zf-C3HC4	Database	No	Yes	
+143224	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+160596	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+37866	Phytozome v4	-	AT_hook SET	Database	No	Yes	
+379890	Phytozome v4	-	BTB	Database	No	Yes	
+192899	Phytozome v4	-	HMG_box	Database	No	Yes	
+151215	Phytozome v4	-	HMG_box	Database	No	Yes	
+188711	Phytozome v4	-	JmjC	Database	No	Yes	
+195549	Phytozome v4	-	SET	Database	No	Yes	
+135484	Phytozome v4	-	HAND Helicase_C ResIII SLIDE SNF2_N	Database	No	Yes	
+21717	Phytozome v4	-	HMG_box PHD SET	Database	No	Yes	
+13217	Phytozome v4	-	Helicase_C PWWP SNF2_N	Database	No	Yes	
+14080	Phytozome v4	-	Rcd1	Database	No	Yes	
+137355	Phytozome v4	-	Rcd1	Database	No	Yes	
+154505	Phytozome v4	-	Rubis-subs-bind SET	Database	No	Yes	
+165420	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+187927	Phytozome v4	-	ARID	Database	No	Yes	
+143712	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+143723	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+177618	Phytozome v4	-	HIRAN Helicase_C SNF2_N	Database	No	Yes	
+152106	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+117568	Phytozome v4	-	Acetyltransf_1	Database	No	Yes	
+193146	Phytozome v4	-	BTB	Database	No	Yes	
+193126	Phytozome v4	-	JmjC	Database	No	Yes	
+184386	Phytozome v4	-	HMG_box	Database	No	Yes	
+193681	Phytozome v4	-	BAH PHD	Database	No	Yes	
+115484	Phytozome v4	-	SET	Database	No	Yes	
+145254	Phytozome v4	-	SET	Database	No	Yes	
+145251	Phytozome v4	-	HMG_box	Database	No	Yes	
+170309	Phytozome v4	-	JmjC	Database	No	Yes	
+153832	Phytozome v4	-	SET	Database	No	Yes	
+153371	Phytozome v4	-	SET	Database	No	Yes	
