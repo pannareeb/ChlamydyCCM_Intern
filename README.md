@@ -1,5 +1,7 @@
 # Intern_Chlamydy_Cambridge
 
+This project was an internship projec, carrying out over 2 months, under the supervision of Gitanjali Yadav, Department of Plant Sciences, University of Cambridge.
+
 1. For 300 genes, Code for 48 x 354 input matrix: to run dynGENIE3 with improved conditions and Get_link_list Code_1_links_for_300
 2. For 17,000 genes, Code to import data and find genes that throw out error CheckforErrorGenes
 3. For 17,000 genes, Code to filter them out and to run dynGENIE3 & Get_link_list with names with no max count ToRunAFinalTime_edited
